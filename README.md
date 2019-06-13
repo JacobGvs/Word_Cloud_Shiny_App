@@ -14,6 +14,9 @@ social media sites : to collect, analyze and share user sentiments
 
 #### This app is to allow you load your text files or CSV files from your local computer, then the app will do the text mining process and show you the word cloud for your text file.
 
+#### For running this app locally, please download ui.r, server.r to your local computer. fifa_5000.csv is an optional file.
+
+
 #### Due to shinyapps.io has limited space for the instance, I have limited the readLine to read only 2000 lines.
 
 #### I have supplied a sample CSV file which is called fifa_5000.CSV. This csv file contains 5000 tweets for 2018 FIFA. This was a subset file from original 530000 tweets. If you would like to try this file, you can download the csv file and save it to your local computer. Then you can upload to the app for the word cloud. Here is the shiny app link: 
