@@ -16,6 +16,7 @@ social media sites : to collect, analyze and share user sentiments
 
 #### Due to shinyapps.io has limited space for the instance, I have limited the readLine to read only 2000 lines.
 
-#### I have supplied a sample CSV file which is called fifa_5000.CSV. This csv file contains 5000 tweets for 2018 FIFA. This was a subset file from original 530000 tweets.
+#### I have supplied a sample CSV file which is called fifa_5000.CSV. This csv file contains 5000 tweets for 2018 FIFA. This was a subset file from original 530000 tweets. If you would like to try this file, you can download the csv file and save it to your local computer. Then you can upload to the app for the word cloud. Here is the shiny app link: 
+https://amy-hu-zhao-2001.shinyapps.io/word_cloud_shiny_app/
 
 #### For a long term consideration, this app can analysis a book or any online text file
