@@ -1,9 +1,9 @@
 # Word_Cloud_Shiny_App
 
 ## 3 reasons you should use word clouds to present your text data
-Word clouds add simplicity and clarity. The most used keywords stand out better in a word cloud
-Word clouds are a potent communication tool. They are easy to understand, to be shared and are impactful
-Word clouds are visually engaging than a table data
+#### Word clouds add simplicity and clarity. The most used keywords stand out better in a word cloud
+#### Word clouds are a potent communication tool. They are easy to understand, to be shared and are impactful
+#### Word clouds are visually engaging than a table data
 
 ## Who is using word clouds ?
 #### Researchers : for reporting qualitative data
