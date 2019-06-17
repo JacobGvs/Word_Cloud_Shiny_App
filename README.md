@@ -1,9 +1,9 @@
 # Word_Cloud_Shiny_App
 
 ## 3 reasons you should use word clouds to present your text data
-#### Word clouds add simplicity and clarity. The most used keywords stand out better in a word cloud
-#### Word clouds are a potent communication tool. They are easy to understand, to be shared and are impactful
-#### Word clouds are visually engaging than a table data
+#### Word clouds add simplicity and clarity. The most frequently used words stand out better in a word cloud than in other representations
+#### Word clouds are a potent communication tool. They are easy to understand, easy to share, and are an easy way to create impact
+#### Word clouds are more visually engaging than a table data
 
 ## Who is using word clouds ?
 #### Researchers : for reporting qualitative data
@@ -12,14 +12,11 @@
 #### Politicians and journalists
 #### social media sites : to collect, analyze and share user sentiments
 
-#### This app is to allow you load your text files or CSV files from your local computer, then the app will do the text mining process and show you the word cloud for your text file.
+#### This app will allow you to load a .txt or .csv file from your local harddrive to be mined and represented as a wordcloud.
 
-#### For running this app locally, please download ui.r, server.r to your local computer. fifa_5000.csv is an optional file.
+#### I have supplied a sample .csv file titled "fifa_5000.csv" that can be downloaded. This .csv file contains 5000 tweets created during the 2018 FIFA WorldCup. This is a subset of the original .csv fileile from original 530000 tweets.
+
+#### To run this app locally, you will need to download the "ui.r" and "server.r" to your compute. The "fifa_5000.csv" file can also be downloaded and used as the text file for upload to the shiny app.
 
 
-#### Due to shinyapps.io has limited space for the instance, I have limited the readLine to read only 2000 lines.
-
-#### I have supplied a sample CSV file which is called fifa_5000.CSV. This csv file contains 5000 tweets for 2018 FIFA. This was a subset file from original 530000 tweets. If you would like to try this file, you can download the csv file and save it to your local computer. Then you can upload to the app for the word cloud. Here is the shiny app link: 
-https://amy-hu-zhao-2001.shinyapps.io/word_cloud_shiny_app/
-
-#### For a long term consideration, this app can analysis a book or any online text file
+#### Due to the limited space shinyapps.io has per instance, the app will only read 2000 lines.
