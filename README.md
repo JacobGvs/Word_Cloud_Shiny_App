@@ -6,11 +6,11 @@ Word clouds are a potent communication tool. They are easy to understand, to be 
 Word clouds are visually engaging than a table data
 
 ## Who is using word clouds ?
-Researchers : for reporting qualitative data
-Marketers : for highlighting the needs and pain points of customers
-Educators : to support essential issues
-Politicians and journalists
-social media sites : to collect, analyze and share user sentiments
+####Researchers : for reporting qualitative data
+####Marketers : for highlighting the needs and pain points of customers
+####Educators : to support essential issues
+####Politicians and journalists
+####social media sites : to collect, analyze and share user sentiments
 
 #### This app is to allow you load your text files or CSV files from your local computer, then the app will do the text mining process and show you the word cloud for your text file.
 
